@@ -1,0 +1,35 @@
+h1, h2 {
+  color: green;
+}
+
+p {
+  color: black;
+}
+
+ul {
+  border: 5px solid rgb(140, 0, 255);
+}
+
+ol {
+  border: 5px solid pink;
+}
+
+ol, ul {
+  padding: 10px 40px;
+  border-radius: 2px;
+}
+
+h1, strong {
+  color: darkblue;
+}
+
+u {
+  color: purple;
+}
+b {
+  color: blue;
+}
+i {
+  color: red;
+}
+
